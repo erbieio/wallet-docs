@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26ab8eab-42bb-4d95-98f4-eca50663b075" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/build/doctrees/account.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/account.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/home.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/home.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/index.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/network.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/network.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/nft.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/nft.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/pk.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/pk.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/snft.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/snft.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/stake.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/stake.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/doctrees/token.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/build/doctrees/token.doctree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/.buildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/.buildinfo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_sources/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_sources/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/doctools.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/doctools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/documentation_options.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/documentation_options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/language_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/language_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ar/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ar/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/bg/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/bg/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/bn/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/bn/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ca/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ca/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/cs/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/cs/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/da/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/da/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/de/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/de/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/el/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/el/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/eo/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/eo/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/es/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/es/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/et/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/et/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/fi/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/fi/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/fr/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/fr/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/hr/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/hr/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/id/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/id/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/it/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/it/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/iw/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/iw/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ja/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ja/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ko/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ko/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/lt/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/lt/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/lv/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/lv/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ml/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ml/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/mr/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/mr/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ms/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ms/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/nl/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/nl/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/no/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/no/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/pl/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/pl/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/pt/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/pt/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ro/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ro/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ru/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ru/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/sk/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/sk/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/sl/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/sl/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/sr/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/sr/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/sv/LC_MESSAGES/booktheme.mo" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/sv/LC_MESSAGES/booktheme.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/sv/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/sv/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ta/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ta/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/te/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/te/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/tg/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/tg/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/th/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/th/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/tl/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/tl/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/tr/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/tr/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/uk/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/uk/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/ur/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/ur/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/vi/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/vi/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/zh_CN/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/zh_CN/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/locales/zh_TW/LC_MESSAGES/booktheme.po" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/locales/zh_TW/LC_MESSAGES/booktheme.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/scripts/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/scripts/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/scripts/bootstrap.js.LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/scripts/bootstrap.js.LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/scripts/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/scripts/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/scripts/pydata-sphinx-theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/scripts/pydata-sphinx-theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/scripts/pydata-sphinx-theme.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/scripts/pydata-sphinx-theme.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/searchtools.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/searchtools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/sphinx_highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/sphinx_highlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/styles/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/styles/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/styles/pydata-sphinx-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/styles/pydata-sphinx-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/styles/sphinx-book-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/styles/sphinx-book-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/_static/webpack-macros.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/_static/webpack-macros.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/genindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/network.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/network.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/nft.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/nft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/pk.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/pk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/snft.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/snft.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/stake.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/stake.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html/token.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/html/token.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/source/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/nft.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/snft.rst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../program/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gGMhgS32WGdoiqaKUcrvCj8SST" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.go.vendoring.notification.had.been.shown": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "D:/me_work/blockchain/erbie/project/erbie-docs",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

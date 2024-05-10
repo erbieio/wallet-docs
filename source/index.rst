@@ -18,7 +18,5 @@ This tutorial will guide you through how to use the Limino Wallet. It includes b
    token
    network
    stake
-   nft
-   snft
 
   
