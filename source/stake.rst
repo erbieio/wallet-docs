@@ -2,10 +2,10 @@ Validator/Staker
 ==========================================================================
 
 .. note::
-   Please ensure that your account balance is more than 700 ERB. Then you can execute the stake.
+   Please ensure that your account balance is more than 350 ERB. Then you can execute the stake.
    
-   - Staker: The amount of self-stake is not less than 700 ERB.
-   - Validator: The amount of self-stake is not less than 700 ERB, and the total amount staked(Amount of self-stake + Other amount staked) is not less than 70,000 ERB.
+   - Staker: The amount of self-stake is not less than 350 ERB.
+   - Validator: The amount of self-stake is not less than 350 ERB, and the total amount staked(Amount of self-stake + Other amount staked) is not less than 35,000 ERB.
 
 Entry
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
